@@ -1,0 +1,29 @@
+{
+    "nome_progetto": "Progetto Ingegneristico Avanzato",
+    "fasi": [
+        {
+            "fase": "Fattibilità e Normativa",
+            "scadenza": "2026-06-30",
+            "documenti": [],
+            "commenti": []
+        },
+        {
+            "fase": "Progettazione Esecutiva",
+            "scadenza": "2026-09-15",
+            "documenti": [],
+            "commenti": []
+        },
+        {
+            "fase": "invio integrazioni",
+            "scadenza": "2026-10-10",
+            "documenti": [],
+            "commenti": []
+        },
+        {
+            "fase": "invio integrazioni",
+            "scadenza": "2026-10-10",
+            "documenti": [],
+            "commenti": []
+        }
+    ]
+}
