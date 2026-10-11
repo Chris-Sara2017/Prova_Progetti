@@ -69,7 +69,7 @@ st.markdown("### Stato Avanzamento Fasi")
 for i, fase in enumerate(progetto.get("fasi", [])):
   col1, col2, col3 = st.columns([3, 2, 4])
   with col1:
-    st.text(fase["nome"])
+    st.text(fase.get("nome", "Fase senza nome"))
   with col2:
     # Selezione dello stato
     nuovo_stato = st.selectbox(
