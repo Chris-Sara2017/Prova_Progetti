@@ -25,5 +25,17 @@
             "documenti": [],
             "commenti": []
         }
+    ],
+    "progetto": "progetto 1",
+    "elementi": [
+        {
+            "fase": "Origination",
+            "sottofase": "Origini 2",
+            "data_inizio": "2026-10-11",
+            "data_fine": "2026-10-11",
+            "stato": "Da Iniziare",
+            "commenti": "",
+            "file_allegato": "nessuno"
+        }
     ]
 }

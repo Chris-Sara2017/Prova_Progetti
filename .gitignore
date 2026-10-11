@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+.devcontainer/
+build/
+__pycache__/
+allegati/
